@@ -1,0 +1,29 @@
+﻿
+
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<!-- HTML markup for the frames -->
+
+<div class="text-center">
+    <h1 class="display-4">Temperature and Humidity values</h1>
+    <p></p>
+    <iframe src="https://tempfunction26714484.azurewebsites.net/api/temperature/?"></iframe>
+    <br>
+    <h1 class="display-4">Water rate values</h1>
+    <iframe src="https://waterfunction26714484.azurewebsites.net/api/water/?"></iframe>
+    <br>
+    <h1 class="display-4">26714487</h1>   
+</div>
+<!-- CSS to style the frames and background color -->
+<style>	  
+    body {
+	    background-color: rgb(236, 236, 195);
+	  }
+  iframe {
+    border: 12px solid lightblue;  
+    background-color: rgb(253, 206, 213);
+  }
+</style>

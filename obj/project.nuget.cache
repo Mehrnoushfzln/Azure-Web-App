@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqX/82jZSShN3zRAVOye23/TGrHZVfMVXix4blj9ijulLDLycF8OIpfRf5VY2FLIsDHdbJEdPP98DKAqhHRdtA==",
+  "success": true,
+  "projectFilePath": "C:\\code\\MehrnoushWebApp\\MehrnoushWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Computing\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
