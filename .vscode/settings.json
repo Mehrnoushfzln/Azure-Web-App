@@ -1,5 +1,0 @@
-{
-    "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "bin\\Release\\netcoreapp3.1\\publish",
-    "appService.defaultWebAppToDeploy": "/subscriptions/82b35ee5-ffbf-4c84-8664-ed9e6882e4b0/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/26714484temp"
-}
