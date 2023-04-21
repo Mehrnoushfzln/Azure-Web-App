@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\code\\MehrnoushWebApp\\MehrnoushWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Computing\\Desktop\\MehrnoushWebApp\\MehrnoushWebApp.csproj",
       "projectName": "MehrnoushWebApp",
-      "projectPath": "c:\\code\\MehrnoushWebApp\\MehrnoushWebApp.csproj",
+      "projectPath": "C:\\Users\\Computing\\Desktop\\MehrnoushWebApp\\MehrnoushWebApp.csproj",
       "packagesPath": "C:\\Users\\Computing\\.nuget\\packages\\",
-      "outputPath": "c:\\code\\MehrnoushWebApp\\obj\\",
+      "outputPath": "C:\\Users\\Computing\\Desktop\\MehrnoushWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,12 +62,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.32, 3.1.32]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -76,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

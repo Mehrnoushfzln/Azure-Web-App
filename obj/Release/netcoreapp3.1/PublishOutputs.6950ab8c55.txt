@@ -35,9 +35,11 @@ C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\www
 C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\wwwroot\lib\jquery\dist\jquery.min.js
 C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\wwwroot\lib\jquery\dist\jquery.min.map
 C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\wwwroot\loaderio-493c029688ad84cc948b40d040ae597b.txt
 C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
 C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\appsettings.json
 C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\config.json
+C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\proxies.json
 C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\MehrnoushWebApp.dll
 C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\MehrnoushWebApp.deps.json
 C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\publish\MehrnoushWebApp.runtimeconfig.json

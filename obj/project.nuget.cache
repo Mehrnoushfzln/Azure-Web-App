@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wqX/82jZSShN3zRAVOye23/TGrHZVfMVXix4blj9ijulLDLycF8OIpfRf5VY2FLIsDHdbJEdPP98DKAqhHRdtA==",
+  "dgSpecHash": "ertrxJ7K3wncccIh6U1/n7F1SSua31D4oAjeiCJNw83jHJ2wTwBPzMA92DclepXTA60nZAdx62ZK2uQuGFrUng==",
   "success": true,
-  "projectFilePath": "C:\\code\\MehrnoushWebApp\\MehrnoushWebApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Computing\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Computing\\Desktop\\MehrnoushWebApp\\MehrnoushWebApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

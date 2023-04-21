@@ -77,3 +77,4 @@ C:\code\MehrnoushWebApp\obj\Release\netcoreapp3.1\MehrnoushWebApp.dll
 C:\code\MehrnoushWebApp\obj\Release\netcoreapp3.1\MehrnoushWebApp.pdb
 C:\code\MehrnoushWebApp\obj\Release\netcoreapp3.1\MehrnoushWebApp.genruntimeconfig.cache
 C:\code\MehrnoushWebApp\obj\Release\netcoreapp3.1\MehrnoushWebApp.csproj.CopyComplete
+C:\Users\Computing\Desktop\MehrnoushWebApp\bin\Release\netcoreapp3.1\proxies.json
